@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1641798504 source:c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\3. recursividad\final diciembre 2021\factura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"factura.h"
+
+1641798085 c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\3. recursividad\final diciembre 2021\factura.h
+	"detalles.h"
+
+1641798504 source:c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\3. recursividad\final diciembre 2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"factura.h"
+	"detalles.h"
+
+1641798436 c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\3. recursividad\final diciembre 2021\detalles.h
+
+1641798436 source:c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\3. recursividad\final diciembre 2021\detalles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"detalles.h"
+
+1657060737 source:c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\5. tda\final diciembre-facturas-detalles\detalles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"detalles.h"
+
+1657060737 c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\5. tda\final diciembre-facturas-detalles\detalles.h
+
+1657061851 source:c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\5. tda\final diciembre-facturas-detalles\factura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"factura.h"
+
+1657062454 c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\5. tda\final diciembre-facturas-detalles\factura.h
+
+1657062454 source:c:\users\dante\onedrive\documentos\unla\1ro\2do cuatrimestre\programación de computadoras (2do cuatrimestre)\5. tda\final diciembre-facturas-detalles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"factura.h"
+	"detalles.h"
+
